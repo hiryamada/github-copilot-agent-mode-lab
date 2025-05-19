@@ -54,7 +54,7 @@ The entire procedure takes approximately 1 hour (including 30 minutes waiting ti
   - Click "Authorize Visual-Studio-Code" green button
   - "This site is trying to open Visual Studio Code" → "Open"
 
-## Create and open a folder in Visual Studio Code
+## Create and open a folder in VSCode
   - Click "Open Folder" (or "File" → "Open Folder..." from the menu)
   - Go to "Desktop"
   - Click "New Folder" and enter "omikuji" (fortune-telling)
@@ -100,5 +100,5 @@ The entire procedure takes approximately 1 hour (including 30 minutes waiting ti
 
 ## If it still doesn't work...
 
-  - Go back to the steps in "Create and open a folder in Visual Studio Code" and create a new folder such as "omikuji2" and try again.
+  - Go back to the steps in "Create and open a folder in VSCode" and create another new folder such as "omikuji2" and try again.
 
