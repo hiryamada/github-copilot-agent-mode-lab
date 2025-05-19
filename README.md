@@ -5,7 +5,7 @@ You'll use GitHub Copilot agent mode to create a simple [Omikuji](https://japan-
 
 The entire procedure takes approximately 1 hour (including 30 minutes waiting time).
 
-**After starting the lab, please wait 30 minutes before continuing.** This will avoid sign-in issues.
+**After starting the lab, please wait 30 minutes before sign in to GitHub.** This will avoid sign-in issues.
 
 ## Create a Microsoft account (if you don't have one)
   - https://signup.live.com/signup
