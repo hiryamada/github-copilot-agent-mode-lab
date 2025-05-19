@@ -88,10 +88,10 @@ The entire procedure takes approximately 1 hour (including 30 minutes waiting ti
   - Click the "Run" button (right-facing triangle) on the top right of the editor
   - The Edge browser opens and displays a random fortune for you. Good luck!
 
-## If the fortune is not displayed properly...
+## If everything works fine but you still don't see fortune...
   - Click the square button in VSCode to stop a running web app
   - Type the following prompt in chat
-  - `omikuji not shown`
+  - `Fortune still not shown. Show a random omikuji fortune in English and Japanese in the index page.`
   - Enter (or click the Send button)
   - The correction will be performed. Click "Keep"
   - Open Program.cs
